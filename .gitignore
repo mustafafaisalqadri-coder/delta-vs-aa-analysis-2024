@@ -1,4 +1,3 @@
 *.zip
-*.csv
 flight_data_unzipped/
 __pycache__/
